@@ -4,5 +4,6 @@
   "5438329043": "Sem motivo",
   "7281209576": "Kiddd",
   "RAEL": "TESTE",
-  "LUSCA": "LINDOOOOO"
+  "LUSCA": "LINDOOOOO",
+  "9016629029": "kid"
 }
