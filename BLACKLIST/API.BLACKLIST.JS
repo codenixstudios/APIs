@@ -12,5 +12,6 @@
   "4351864352": "kiiiiidddddd",
   "8253486997": "kid",
   "4690579695": "MAMA drake",
-  "7399289344": "BoTtt MAMA leite"
+  "7399289344": "BoTtt MAMA leite",
+  "5439019465": "MAMA Ovo"
 }
