@@ -9,5 +9,6 @@
   "8363312250": "Mandrake kid",
   "5536177332": "kid bot",
   "7561169221": "Sem motivo",
-  "5175938106": "Mandrake Bot"
+  "5175938106": "Mandrake Bot",
+  "7658530752": "KIDDD"
 }
