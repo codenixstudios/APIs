@@ -3,5 +3,6 @@
   "5438329043": "Sem motivo",
   "7281209576": "Kiddd",
   "9016629029": "kid",
-  "Eu": "Sem motivo"
+  "Eu": "Sem motivo",
+  "4800281740": "Kid"
 }
