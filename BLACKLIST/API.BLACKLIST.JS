@@ -20,5 +20,6 @@
   "5454865179": "BOT CHUPADOR",
   "5567094623": "Anão de jardim",
   "9060877479": "mandrake Da queles de 2019 Kiddd",
-  "7890072542": "kid"
+  "7890072542": "kid",
+  "8780514322": "tão Kid Que mamou de mais"
 }
