@@ -22,5 +22,6 @@
   "9060877479": "mandrake Da queles de 2019 Kiddd",
   "7890072542": "kid",
   "8780514322": "tão Kid Que mamou de mais",
-  "5823462255": "mandrake verificado"
+  "5823462255": "mandrake verificado",
+  "7520828248": "mama Drakeee"
 }
