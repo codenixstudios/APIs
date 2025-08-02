@@ -23,5 +23,6 @@
   "7890072542": "kid",
   "8780514322": "tão Kid Que mamou de mais",
   "5823462255": "mandrake verificado",
-  "7520828248": "mama Drakeee"
+  "7520828248": "mama Drakeee",
+  "7101505237": "Mamou ovo do shadow"
 }
