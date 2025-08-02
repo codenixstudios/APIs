@@ -1,5 +1,4 @@
 {
-  "502020909": "Sem motivo",
   "1289880472": "Mandrake DMS",
   "2357245573": "MAMA drake",
   "3022458626": "mandrake detectado by thomas",
