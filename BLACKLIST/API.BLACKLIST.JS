@@ -26,5 +26,6 @@
   "5823462255": "mandrake verificado",
   "7520828248": "mama Drakeee",
   "7101505237": "Mamou ovo do shadow",
-  "4797746658": "mama  drake"
+  "4797746658": "mama  drake",
+  "6219411540": "kid"
 }
