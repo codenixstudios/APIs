@@ -16,5 +16,6 @@
   "7399289344": "BoTtt MAMA leite",
   "5439019465": "MAMA Ovo",
   "9046792093": "Muito Kid,parece 10 anos",
-  "7051299465": "Tão kid Q e melhor Joga cod,parece Os Lixos do jogo"
+  "7051299465": "Tão kid Q e melhor Joga cod,parece Os Lixos do jogo",
+  "5454865179": "BOT CHUPADOR"
 }
