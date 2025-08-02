@@ -32,5 +32,6 @@
   "4797746658": "mama  drake",
   "6219411540": "kid",
   "7719480559": "mamou bastante",
-  "mandrake": "confirmado"
+  "mandrake": "confirmado",
+  "7946025206": "mandrake verificado"
 }
