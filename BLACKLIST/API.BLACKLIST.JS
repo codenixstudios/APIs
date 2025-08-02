@@ -1,5 +1,4 @@
 {
-  "1289880472": "Sem motivo",
   "2357245573": "MAMA drake",
   "4167526899": "parece tão kid Q mamou Ja",
   "7281209576": "Kiddd",
