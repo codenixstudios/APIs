@@ -13,5 +13,6 @@
   "8253486997": "kid",
   "4690579695": "MAMA drake",
   "7399289344": "BoTtt MAMA leite",
-  "5439019465": "MAMA Ovo"
+  "5439019465": "MAMA Ovo",
+  "9046792093": "Muito Kid,parece 10 anos"
 }
