@@ -18,5 +18,6 @@
   "9046792093": "Muito Kid,parece 10 anos",
   "7051299465": "Tão kid Q e melhor Joga cod,parece Os Lixos do jogo",
   "5454865179": "BOT CHUPADOR",
-  "5567094623": "Anão de jardim"
+  "5567094623": "Anão de jardim",
+  "9060877479": "mandrake Da queles de 2019 Kiddd"
 }
