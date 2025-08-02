@@ -33,5 +33,6 @@
   "6219411540": "kid",
   "7719480559": "mamou bastante",
   "mandrake": "confirmado",
-  "7946025206": "mandrake verificado"
+  "7946025206": "mandrake verificado",
+  "5481909610": "mandrake verificado com provas"
 }
