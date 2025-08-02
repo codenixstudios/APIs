@@ -35,5 +35,6 @@
   "mandrake": "confirmado",
   "7946025206": "mandrake verificado",
   "5481909610": "mandrake verificado com provas",
-  "7048371398": "mamou"
+  "7048371398": "mamou",
+  "7351662892": "Blacklisted."
 }
